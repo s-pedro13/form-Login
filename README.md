@@ -16,7 +16,7 @@
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de login  
 
-<img src= "login.png">
+<img src= "img/login.png">
 
 ## Funcionalidades 🧠
 - Aprender a construir uma tabela de formulário de login
